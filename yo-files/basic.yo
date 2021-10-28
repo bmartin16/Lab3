@@ -1,0 +1,1 @@
+0x0021: 30f3ffffffffffffff7f   | irmovq 0x7fffffffffffffff, %rbx
